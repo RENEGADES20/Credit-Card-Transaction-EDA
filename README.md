@@ -1,20 +1,18 @@
 # Credit Card Transaction Analysis and Feature Engineering
-
+---
 A comprehensive exploratory data analysis (EDA) and feature engineering project based on 788,521 real-world government credit card transactions (2018–2023).
 This project focuses on understanding spending behaviors, detecting irregular patterns, and building a rich feature set for downstream anomaly-detection models.
-
 ---
 
 ## 1. Project Overview
 
 This repository contains the full analysis and engineered datasets for a large-scale credit card transaction dataset.
 The primary objectives are:
-
-1. Clean and standardize raw transactional data
-2. Perform extensive univariate and multivariate EDA
-3. Identify spending patterns across departments, divisions, merchants and dates
-4. Engineer high-signal features suitable for unsupervised anomaly detection
-5. Build modular and reproducible code that can be extended to ML modeling
+-Clean and standardize raw transactional data
+-Perform extensive univariate and multivariate EDA
+-Identify spending patterns across departments, divisions, merchants and dates
+-Engineer high-signal features suitable for unsupervised anomaly detection
+-Build modular and reproducible code that can be extended to ML modeling
 
 The analysis is implemented in Python using Jupyter Notebook.
 
@@ -187,4 +185,3 @@ pip install pandas numpy seaborn matplotlib
 ---
 
 
-需要哪个？
