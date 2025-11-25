@@ -1,7 +1,8 @@
 # Credit Card Transaction Analysis and Feature Engineering
----
+
 A comprehensive exploratory data analysis (EDA) and feature engineering project based on 788,521 real-world government credit card transactions (2018–2023).
 This project focuses on understanding spending behaviors, detecting irregular patterns, and building a rich feature set for downstream anomaly-detection models.
+
 ---
 
 ## 1. Project Overview
